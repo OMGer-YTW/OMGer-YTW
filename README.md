@@ -1,8 +1,6 @@
 Hi, I’m YTW
 
-My major is Industrial Engineering and Management.
-
-I have solid foundation in mathematical programming to do problem-solving and decision-making.
+Major is Industrial Engineering and Management. With solid foundation in mathematical programming to do problem-solving and decision-making.
 
 - Professional courses :
 
