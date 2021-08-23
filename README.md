@@ -1,8 +1,8 @@
 Hi, I’m YTW
 
-I got my master degree in Industrial Engineering and Management from National Chiao Tung University (NCTU) in Taiwan.
+My major is Industrial Engineering and Management.
 
-Solid foundation in mathematical programming to do problem-solving and decision-making.
+I have solid foundation in mathematical programming to do problem-solving and decision-making.
 
 - Professional courses :
 
